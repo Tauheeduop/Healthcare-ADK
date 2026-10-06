@@ -1,0 +1,1 @@
+"""Patient intake assistant application."""
